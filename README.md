@@ -11,7 +11,7 @@
 - __[GOLD Classification](scores/GOLD.md)__ — Classification of __Chronic Obstructive Pulmonary Disease__
 - __[Forrest Classification](scores/Forrest.md)__ — Classification of Upper Gastrointestinal Hemorrhage
 - __[HAS-BLED Score](scores/HAS-BLED.md)__ — Risk of __Bleeding__ in patients with __Atrial Fibrillation__ who should receive __Anticoagulation__
-- __[mMRC Grading](score/mMRC.md)__ — Modified Medical Research Council __Dyspnea Scale__
+- __[mMRC Grading](scores/mMRC.md)__ — Modified Medical Research Council __Dyspnea Scale__
 - __[NIH Stroke Scale](scores/NIH-Stroke-Scale.md)__ — Assessment of the __Severity__ of Neurological Deficits in a __Stroke__
 - __[NYHA Classification](scores/NIHSS.md)__ — Classification of __Congestiva Heart Failure__ based on Symptoms
 - __[Ranson Criteria](scores/Ranson.md)__ — Prognosis of __Acute Pancreatitis__
