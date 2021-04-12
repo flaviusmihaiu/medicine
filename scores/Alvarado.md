@@ -1,4 +1,4 @@
-# Alvadaro Score
+# Alvarado Score
 
 _Estimate the Likelihood of Appendicitis_
 
