@@ -37,3 +37,9 @@
 | Medication | Dose | Modality || Duration |
 | --- | ---: | --- | --- | --- |
 | Example | 100 mg | p.o. | 1 – 0 – 1 – 0 | 7 Days |
+
+```md
+| Medication | Dose | Modality || Duration |
+| --- | ---: | --- | --- | --- |
+| Example | 100 mg | p.o. | 1 – 0 – 1 – 0 | 7 Days |
+```
