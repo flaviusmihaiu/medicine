@@ -46,6 +46,8 @@ _Therapy Guildelines for the Eradication of Helicobacter pylori_
 
 ### Fluoroquinolone Triple Therapy
 
+> __Duration:__ 10 Days
+
 | Medication | Dose | Modality ||
 | --- | ---: | --- | --- |
 | PPI | ... | p.o. | 1 – 0 – 1 |
