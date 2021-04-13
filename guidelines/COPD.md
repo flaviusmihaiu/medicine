@@ -28,7 +28,7 @@
 ### Dosier-Aerosol (MDI), Powder Inhalation (DPI) and Soft Mist Inhalfer (SMI)
 
 | Class | Medication | Type | Dose | Duration |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | ---: | --- |
 | SAMA | Ipratropiumbromid | MDI | 20 µg | 6 – 8 Hours
 | LAMA | Aclinidium | DPI | 322 µg | 12 Hours |
 | – &middot;&middot; – | Glycopyrronium | DPI | 44 µg | 24 Hours |
@@ -57,7 +57,7 @@
 ### Nebuliser
 
 | Class | Medication | Dose | Duration |
-| --- | --- | --- | --- |
+| --- | --- | ---: | --- |
 | SAMA | Ipratropiumbromid | 0.125 – 0.25 mg/mL | 6 – 8 Hours |
 | SABA | Salbutamol | 0.5 mg/mL | 4 – 6 Hours |
 | SAMA + SABA<br><small>Combination</small> | Ipratropiumbromid + Fenoterolhydrobromid | 0.25/0.5 mg/mL | 6 – 8 Hours |
@@ -67,7 +67,7 @@
 ### Tablets
 
 | Class | Medication | Dose | Duration |
-| --- | --- | --- | --- |
+| --- | --- | ---: | --- |
 | SABA | Terbutalinsulfat | 7.5 mg | 4 – 6 Hours |
 | SCS | Prednisolon | 1 – 50 mg | ... |
 | - &middot;&middot; – | Methylprednisolon | 4 – 32 mg | ... |
@@ -77,10 +77,10 @@
 ### Intavenous
 
 | Class | Medication | Dose | Duration |
-| --- | --- | --- | --- |
+| --- | --- | ---: | --- |
 | SABA | Reproterolhydrochlorid | 0.09 mg/mL | ... |
 | - &middot;&middot; – | Terbutalinsulfat | 0.5 mg/mL | 4 – 6 Hours |
-| Methylxanthine | Theophyllin | 10 mL Vial has 200 mg Theophyllin | up to 24 Hours |
+| Methylxanthine | Theophyllin | 10 mL has 200 mg | up to 24 Hours |
 
 ## Therapy
 

@@ -9,9 +9,9 @@
 > - Respiratory Rate > 30 /min
 > - __Critical:__ ARDS, Sepsis, NIV/Intubated, require Vasopressor
 
-Medication | Dose | Modality | per Day | Duration |
-| --- | --- | --- | --- | --- |
-| Dexamethason | 6 mg | per os<br>intravenous | 1 – 0 – 0 | 10 Days |
+| Medication | Dose | Modality || Duration |
+| --- | ---: | --- | --- | --- |
+| Dexamethason | 6 mg | p.o./i.v. | 1 – 0 – 0 | 10 Days |
 | Hydrocortison | 50 mg | i.v. | 1 – 1 – 1 | 10 Days |
 | Prednisone | 10 mg | i.v. | 1 – 1 – 1 – 1 | 10 Days |
 | Methylprednisolone | 8 mg | i.v. | 1 – 1 – 1 – 1 | 10 Days |
@@ -19,11 +19,11 @@ Medication | Dose | Modality | per Day | Duration |
 
 #### Studies
 
-| Name | Medication | Dose | per Day | Duration |
-| --- | --- | --- | --- | --- |
+| Name | Medication | Dose || Duration |
+| --- | --- | ---: | --- | --- |
 | GLUCOVID | Methylprednisolon | 40 mg | every 12 Hours | 3 Days |
-| CAPE-COVID | Hydrocortison | 200 mg<br>100 mg<br>50 mg || 4 – 7 Days<br>2 – 4 Days<br>2 – 3 Days |
-| REMAP-CAP | Hydrocortison | 200 mg || 7 Days |
+| CAPE-COVID | Hydrocortison | 200 mg<br>100 mg<br>50 mg | ... | 4 – 7 Days<br>2 – 4 Days<br>2 – 3 Days |
+| REMAP-CAP | Hydrocortison | 200 mg | ... | 7 Days |
 | Steroids-SARI | Methylprednisolon | 40 mg | every 12 Hours | 5 Days |
 
 ### __Remdesevir__ — _Neither Recommended nor Not Recommended_
@@ -34,9 +34,9 @@ Medication | Dose | Modality | per Day | Duration |
 | --- | --- | --- | --- |
 | Age > 12 Years<br>Weight > 40 kg | COVID/19 Pneumonie<br>Oxygen Dependency<br>Symptomatic < 7 Days<br>Positive SARS-CoV-2 PCR < 48 Hours | No Oxygen Requirement<br>Excluding Resp. > 30 /min<br>Intubated Patients<br>Hepatic Dysfunction | GFR < 30 mL/min
 
-Medication | Dose | Modality | per Day | Duration |
-| --- | --- | --- | --- | --- |
-| Remdesivir | 200 mg<br>100 mg | intravenous | 1x | 1<sup>st</sup> Day<br>2<sup>nd</sup> – 5<sup>th</sup> Day |
+| Medication | Dose | Modality | Duration |
+| --- | ---: | --- | --- |
+| Remdesivir | 200 mg<br>100 mg | i.v. | 1<sup>st</sup> Day<br>2<sup>nd</sup> – 5<sup>th</sup> Day |
 
 ### Other Medications
 
