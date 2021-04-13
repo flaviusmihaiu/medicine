@@ -13,7 +13,7 @@
 | PDE4-Inhibitor | Phosphodiesterase-4-Inhibitors |
 || Methylxanthine|
 
-#### Notes
+#### Information
 
 - SAMA/SABA — ↑ FEV<small>1</small> and Symptoms
 - Combination SAMA + SABA is better than Monotherapy

@@ -5,6 +5,7 @@
 - __[ABCD<sub>2</sub> Score](scores/ABCD2.md)__ — Estimated Two-Day the Risk of __Stroke__ after a suspected __Transient Ischemic Attack__
 - __[AIR Score](scores/AIR.md)__ — Estimate the Likelihood of __Appendicitis__ <small>_(More Accurate than Alvarado Score)_</small>
 - __[Alvarado Score](scores/Alvarado.md)__ — Estimate the Likelihood of __Appendicitis__
+- __[BODE Score](scores/BODE.md)__ — Multidimensional Severity Classification of Chronic Obstructive Pulmonary Disease
 - __[CHAD<sub>2</sub>DS<sub>2</sub>-VASc Score](scores/CHA2DS2-VASc.md)__ — __Stroke__ Risk for patients with __Atrial Fibrillation__
 - __[Child Pugh Score](scores/Child-Pugh.md)__ — Prognostic __Grading__ Scale to Assess the Severity of __Cirrhosis__
 - __[CURB-65 Score](scores/CURB-65.md)__ — Estimated __Pneumonia__-Related Mortality
@@ -21,5 +22,6 @@
 ## Guidelines
 
 - __[COPD](guidelines/COPD.md)__ — Chronic Obstructive Pulmonary Disease
+- __[COVID-19](guidelines/COVID-19.md)__
 - __[Eradication Therapy](guidelines/Eradication-Therapy.md)__ — Helicobacter pylori
 - __[Hypertension](guidelines/Hypertension.md)__
