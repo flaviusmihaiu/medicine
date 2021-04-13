@@ -13,12 +13,13 @@
 - __[HAS-BLED Score](scores/HAS-BLED.md)__ — Risk of __Bleeding__ in patients with __Atrial Fibrillation__ who should receive __Anticoagulation__
 - __[mMRC Grading](scores/mMRC.md)__ — Modified Medical Research Council __Dyspnea Scale__
 - __[NIH Stroke Scale](scores/NIH-Stroke-Scale.md)__ — Assessment of the __Severity__ of Neurological Deficits in a __Stroke__
-- __[NYHA Classification](scores/NIH-Stroke-Scale.md)__ — Classification of __Congestiva Heart Failure__ based on Symptoms
+- __[NYHA Classification](scores/NYHA.md)__ — Classification of __Congestiva Heart Failure__ based on Symptoms
 - __[Ranson Criteria](scores/Ranson.md)__ — Prognosis of __Acute Pancreatitis__
 - __[Wells Criteria](scores/Wells.md)__ — Estimated Likelyhood of __Pulmonary Embolism__
 - __[West Haven Criteria](scores/West-Haven.md)__ — Grading of __Hepatic Encephalopathy__
 
 ## Guidelines
 
-- __[Eradication Therapy](guidelines/Eradication-Therapy.md)__ — For the Eradication of __Helicobacter pylori__
+- __[COPD](guidelines/COPD.md)__ — Chronic Obstructive Pulmonary Disease
+- __[Eradication Therapy](guidelines/Eradication-Therapy.md)__ — Helicobacter pylori
 - __[Hypertension](guidelines/Hypertension.md)__

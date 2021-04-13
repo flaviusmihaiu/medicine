@@ -1,6 +1,6 @@
 # Hypertension
 
-### Medications
+## Medications
 
 | Class | Indicated | Contraindicated |
 | --- | --- | --- |
@@ -11,7 +11,7 @@
 | __Beta-Blocker__<br>Metoprolol, Bisoprolo | Coronary Heart Disease<br>after Myocardial Infarct<br>Cardiac Insufficiency<br>Tachycardic Arrhythmia<br>Pregnancy | Bradycardic Arrhythmia<br>Peripheral Artery Disease<br>Diabetes mellitus<br>Metabolic Syndrome<br>Asthma<br>Raynaud Syndrome |
 | __MRA__<br><small>_Mineralocorticoid Receptor Antagonists_</small><br>Spironolacton, Eplerenon | Resistant Hypertension<br>Left Ventricular Hypertrophy | Renal Insufficiency<br>Hepatic Failure<br>Hypepotassemia<br>Pregnancy |
 
-## Guidelines
+## Therapy
 
 ### Basic Strategy for Uncomplicated Hypertension
 
@@ -27,7 +27,7 @@
 | Steps | Therapy |
 | ---: | --- |
 | 0 | Monotherapy if systolic BP < 150 mmHg |
-| 1 | ACEi/ARB __+__ Beta-Blocker/CCB<br><small>__OR__</small><br>CCB + Diuretic/Beta-Blocker<br><small>__OR__</small><br>Betablocker + Diuretica
+| 1 | ACEi/ARB + Beta-Blocker/CCB<br><small>__OR__</small><br>CCB + Diuretic/Beta-Blocker<br><small>__OR__</small><br>Betablocker + Diuretica
 | 2 | Tripple Therapy |
 | 3 | Tripple Therapy<br>+<br>Spironolacton <sup>(25 – 50 mg)</sup>/Diuretic/Alpha-Blocker/Beta-Blocker |
 
@@ -35,25 +35,25 @@
 
 | Steps | Therapy |
 | ---: | --- |
-| 1 | ACEi/ARB + CCB<br><small>__OR__</small><br>ACEi/ARB + Diuretics/Loop Diuretics <sup>[[1]](#Notes)</sup> |
-| 2 | <small>Trippletherapy</small><br>ACEi/ARB + CCB + Diuretics/Loop Diuretics <sup>[[1]](#Notes)</sup> |
+| 1 | ACEi/ARB + CCB<br><small>__OR__</small><br>ACEi/ARB + Diuretics/Loop Diuretics <sup>[[1]](#Therapy-Notes)</sup> |
+| 2 | <small>Trippletherapy</small><br>ACEi/ARB + CCB + Diuretics/Loop Diuretics <sup>[[1]](#Therapy-Notes)</sup> |
 | 3 | Tripple Therapie<br>+<br>Spironolacton <sup>(25 – 50 mg)</sup>/Diuretic/Alpha-Blocker/Beta-Blocker |
 
 ### Hypertension and Cardiac Insufficiency with Reduced Ejection Fraction
 
 | Steps | Therapy |
 | ---: | --- |
-| Initial | ACEi/ARB + Diuretics/Loop Diuretics <sup>[[1]](#Notes)</sup> + Beta-Blocker |
-| 2 | ACEi/ARB + Diuretics/Loop Diuretics <sup>[[1]](#Notes)</sup> + Beta-Blocker + MRA |
+| Initial | ACEi/ARB + Diuretics/Loop Diuretics <sup>[[1]](#Therapy-Notes)</sup> + Beta-Blocker |
+| 2 | ACEi/ARB + Diuretics/Loop Diuretics <sup>[[1]](#Therapy-Notes)</sup> + Beta-Blocker + MRA |
 
 ### Hypertension and Atrial Fibrillation
 
 | Steps | Therapy |
 | ---: | --- |
-| Initial | ACEi/ARB + Beta-Blocker/NDHP-CCB <sup>[[2]](#Notes)</sup><br><small>__OR__</small><br>Betablocker + CCB |
+| Initial | ACEi/ARB + Beta-Blocker/NDHP-CCB <sup>[[2]](#Therapy-Notes)</sup><br><small>__OR__</small><br>Betablocker + CCB |
 | 2 | ACEi/ARB + Beta-Blocker + DHP-CCB/Diuretics<br><small>__OR__</small><br>Beta-Blocker + DHP-CCB + Diuretics |
 
-#### Notes
+#### Therapy Notes
 
 1. __Loop Diuretics__ are indicated when __GFR < 30 ml/min/1.72 m<sup>2</sup>__
 2. Route combination of __Beta-Blockers__ with __NDHP-CCB__ is not recommended because of potential for significant reduction in Heart Rate.
