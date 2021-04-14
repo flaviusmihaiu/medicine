@@ -56,4 +56,4 @@
 #### Therapy Notes
 
 1. __Loop Diuretics__ are indicated when __GFR < 30 ml/min/1.72 m<sup>2</sup>__
-2. Route combination of __Beta-Blockers__ with __NDHP-CCB__ is not recommended because of potential for significant reduction in Heart Rate.
+2. Combination of __Beta-Blockers__ with __NDHP-CCB__ is not recommended because of potential for significant reduction in Heart Rate.
