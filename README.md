@@ -25,3 +25,8 @@
 - __[COVID-19](guidelines/COVID-19.md)__
 - __[Eradication Therapy](guidelines/Eradication-Therapy.md)__ — Helicobacter pylori
 - __[Hypertension](guidelines/Hypertension.md)__
+- __[Pneumonia](guidelines/Pneumonia.md)__
+
+## Pharmacology
+
+- __[Antibiotics](pharmacology/Antibiotics.md)__

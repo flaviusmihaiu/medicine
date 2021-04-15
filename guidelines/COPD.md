@@ -11,7 +11,7 @@
 | ICS | Inhaled Corticosteroids |
 | SCS | Systemic Corticosteroids |
 | PDE4-Inhibitor | Phosphodiesterase-4-Inhibitors |
-|| Methylxanthine|
+| – | Methylxanthine|
 
 #### Information
 
@@ -46,12 +46,12 @@
 | – &middot;&middot; – | Indacaterol + Glycopyrronium | DPI | 85/43 µg | 24 Hours |
 | – &middot;&middot; – | Umeclidium + Vilanterol | DPI | 55/22 µg | 24 Hours |
 | – &middot;&middot; – | Tiotropium + Olodaterol | SMI | 2.5/2.5 µg | 24 Hours |
-| ICS | Beclometasondipropionat  | MDI | 100 – 250 µg | ... |
-| – &middot;&middot; – | Budesonid | MDI<br>DPI | 184 µg<br>200 – 400 µg | ... |
-| – &middot;&middot; – | Fluticasonpropionat | MDI<br>DPI | 220 µg<br>250 – 500 µg | ... |
+| ICS | Beclometasondipropionat  | MDI | 100 – 250 µg | – |
+| – &middot;&middot; – | Budesonid | MDI<br>DPI | 184 µg<br>200 – 400 µg | – |
+| – &middot;&middot; – | Fluticasonpropionat | MDI<br>DPI | 220 µg<br>250 – 500 µg | – |
 | LABA + ICS<br><small>Combination</small> | Beclometasondipropionat + Formoterolfumaratdihydrat | MDI | 84.6/5 µg | 12 Hours |
 | – &middot;&middot; – | Budesonid + Formoterolhemifumarat | DPI | 160 – 320/4.5 – 9 µg | 12 – 24 Hours |
-| – &middot;&middot; – | Salmeterol + Fluticasonpropionat | DPI | 47 – 92/231 – 460 µg | ... |
+| – &middot;&middot; – | Salmeterol + Fluticasonpropionat | DPI | 47 – 92/231 – 460 µg | – |
 | – &middot;&middot; – | Fluticasonfuroat + Vilanterol | DPI | 92 – 184/ 22 µg | 24 Hours |
 
 ### Nebuliser
@@ -61,25 +61,25 @@
 | SAMA | Ipratropiumbromid | 0.125 – 0.25 mg/mL | 6 – 8 Hours |
 | SABA | Salbutamol | 0.5 mg/mL | 4 – 6 Hours |
 | SAMA + SABA<br><small>Combination</small> | Ipratropiumbromid + Fenoterolhydrobromid | 0.25/0.5 mg/mL | 6 – 8 Hours |
-| ICS | Beclometasondipropionat | 400 mg/mL | ... |
-| – &middot;&middot; – | Budesonid | 500 – 1000 mg/mL | ... |
+| ICS | Beclometasondipropionat | 400 mg/mL | – |
+| – &middot;&middot; – | Budesonid | 500 – 1000 mg/mL | – |
 
 ### Tablets
 
 | Class | Medication | Dose | Duration |
 | --- | --- | ---: | --- |
 | SABA | Terbutalinsulfat | 7.5 mg | 4 – 6 Hours |
-| SCS | Prednisolon | 1 – 50 mg | ... |
-| - &middot;&middot; – | Methylprednisolon | 4 – 32 mg | ... |
+| SCS | Prednisolon | 1 – 50 mg | – |
+| – &middot;&middot; – | Methylprednisolon | 4 – 32 mg | – |
 | Methylxanthine | Aminophyllin | 200 – 600 mg | up to 24 Hours |
-| - &middot;&middot; – | Theophyllin | 125 – 500 mg | up to 24 Hours |
+| – &middot;&middot; – | Theophyllin | 125 – 500 mg | up to 24 Hours |
 
 ### Intavenous
 
 | Class | Medication | Dose | Duration |
 | --- | --- | ---: | --- |
-| SABA | Reproterolhydrochlorid | 0.09 mg/mL | ... |
-| - &middot;&middot; – | Terbutalinsulfat | 0.5 mg/mL | 4 – 6 Hours |
+| SABA | Reproterolhydrochlorid | 0.09 mg/mL | – |
+| – &middot;&middot; – | Terbutalinsulfat | 0.5 mg/mL | 4 – 6 Hours |
 | Methylxanthine | Theophyllin | 10 mL has 200 mg | up to 24 Hours |
 
 ## Therapy
