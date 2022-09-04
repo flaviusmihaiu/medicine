@@ -62,7 +62,7 @@
 | Ciprofloxacin | p.o. | 30 – 60 mL/min | – | 500 mg / 12 Hours |
 | – &middot;&middot; – || < 30 mL/min | 500 mg / 24 Hours |
 | – &middot;&middot; – || Dialysis | – | 500 mg / 24 Hours<br><small>_given after Dialysis_</small><br>500 mg / 12 Hours<br><small>_if normal Hepatic Function_</small> |
-| – &middot;&middot; – | i.v. |
+| – &middot;&middot; – | i.v. | > 60 mL/min | – | ... |
 | – &middot;&middot; – || 30 – 60 mL/min | – | 400 mg / 12 Hours |
 | – &middot;&middot; – || < 300 mL/min | – | 400 mg / 24 Hours |
 | – &middot;&middot; – || Dialysis | – | 400 mg / 24 Hours<br><small>_given after Dialysis_</small><br>400 mg / 12 Hours<br><small>_if normal Hepatic Function_</small> |

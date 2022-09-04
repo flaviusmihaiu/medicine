@@ -26,6 +26,7 @@
 | ✕ | cross | `&#10005;` |
 | ♂ | male | `&male;` |
 | ♀ | female | `&female;` |
+| Ø | empty/none | `&Oslash;` |
 
 #### Reference
 - https://www.toptal.com/designers/htmlarrows/
@@ -34,12 +35,12 @@
 
 ### Medication
 
-| Medication | Dose | Modality || Duration |
+| Wirkstoff/Handelsname | Stärke | Typ | Dosierung | Dauer |
 | --- | ---: | --- | --- | --- |
-| Example | 100 mg | p.o. | 1 – 0 – 1 – 0 | 7 Days |
+| Beispiel | 100 mg | Tbl. | 1-0-1-0 | 7 Tage |
 
 ```md
-| Medication | Dose | Modality || Duration |
+| Wirkstoff/Handelsname | Stärke | Typ | Dosierung | Dauer |
 | --- | ---: | --- | --- | --- |
-| Example | 100 mg | p.o. | 1 – 0 – 1 – 0 | 7 Days |
+| Beispiel | 100 mg | Tbl. | 1-0-1-0 | 7 Tage |
 ```
