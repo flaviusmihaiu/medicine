@@ -27,6 +27,7 @@
 | ♂ | male | `&male;` |
 | ♀ | female | `&female;` |
 | Ø | empty/none | `&Oslash;` |
+| ₀ | subscript zero | `&#8320;` |
 
 #### Reference
 - https://www.toptal.com/designers/htmlarrows/
