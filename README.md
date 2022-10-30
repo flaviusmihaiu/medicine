@@ -12,6 +12,8 @@
   - [Statine](notes/Vergleichstabellen.md#statine)
 - __[Antibiotika](notes/Antibiotika.md)__
   - [Anpassung bei Niereninsuffizienz](notes/Antibiotika.md#anpassung-bei-niereninsuffizienz)
+- __[Spirometrie](notes/Spirometrie.md)
+  - [Diffusionskapazität](notes/Spirometrie.md#diffusionskapazität)
 
 ## Scores, Criteria, Staging, Grading and Classifications
 
@@ -35,11 +37,6 @@
 ## Guidelines
 
 - __[COPD](guidelines/COPD.md)__ — Chronic Obstructive Pulmonary Disease
-- __[COVID-19](guidelines/COVID-19.md)__
 - __[Eradication Therapy](guidelines/Eradication-Therapy.md)__ — Helicobacter pylori
 - __[Hypertension](guidelines/Hypertension.md)__
 - __[Pneumonia](guidelines/Pneumonia.md)__
-
-## Pharmacology
-
-- __[Antibiotics](pharmacology/Antibiotics.md)__
