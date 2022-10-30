@@ -5,6 +5,13 @@
   - [Beta-Blocker](notes/Vergleichstabellen.md#beta-blocker)
   - [ACE-Hemmer](notes/Vergleichstabellen.md#ace-hemmer)
   - [AT1-Antagonist](notes/Vergleichstabellen.md#at1-antagonist)
+  - [Calciumantagonist](notes/Vergleichstabellen.md#calciumantagonist)
+  - [Thiaziden und Thiazidanaloga](notes/Vergleichstabellen.md#thiaziden-und-thiazidanaloga)
+  - [Schleifendiuretika](notes/Vergleichstabellen.md#schleifendiuretika)
+  - [kaliumsparende Diuretika](notes/Vergleichstabellen.md#kaliumsparende-diuretika)
+  - [Statine](notes/Vergleichstabellen.md#statine)
+- __[Antibiotika](notes/Antibiotika.md)__
+  - [Anpassung bei Niereninsuffizienz](notes/Antibiotika.md#anpassung-bei-niereninsuffizienz)
 
 ## Scores, Criteria, Staging, Grading and Classifications
 

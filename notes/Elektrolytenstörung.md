@@ -30,6 +30,12 @@ _maximal 6-8 mmol über 24 Stunden_
 | akut | Calciumgluconat 10 % Injektionslösung<br>_als Kurzinfusion oder Perfusor über mindestens 10 Minuten_ | nächsten Tag |
 | chronisch | Calcivit Tabletten | monatlich |
 
+## Hyperkalziämie
+
+| Typ | Therapie | Kontrolle |
+| --- | --- | --- |
+| ... | Corticosteroide + Diuretika | nächsten Tag |
+
 ## Hypoglykämie
 
 | Typ | Therapie | Kontrolle |

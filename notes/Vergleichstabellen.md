@@ -20,19 +20,20 @@
 
 | Name | Äquivalenzdosis | max. Dosierung | Niereninsuffizienz |
 | --- | ---: | ---: | --- |
-| Benazapril | ... | ... | nach Q₀: 0.3 |
+| Benazapril | 10 mg | ... | nach Q₀: 0.3 |
 | Captopril | 50 mg | 150 mg/d | GFR >40: 25-150 mg/d<br>GFR 21-40: 25-100 mg/d<br>GFR 10-20: 12,5-75 mg/d<br>GFR <10: 6,25-37,5 mg/d |
-| Cilazapril | ... | ... | GFR >40: 1-5 mg/d<br>GFR 10-40: 0,5-2,5 mg/d<br>GFR <10: kontraindiziert |
+| Cilazapril | 2,5 mg | ... | GFR >40: 1-5 mg/d<br>GFR 10-40: 0,5-2,5 mg/d<br>GFR <10: kontraindiziert |
 | Enalapril | 10 mg | 40 mg/d | ... |
-| Fosinopril | ... | ... | Ø Dosisanpassung |
+| Fosinopril | 15 mg | ... | Ø Dosisanpassung |
 | Imidapril | ... | ... | ... |
 | Lisinopril | 10 mg | 40 mg/d | GFR 31-80: init. 5-10 mg/d<br>GFR 10-30: init. 2,5-5 mg/d<br>GFR <10: init. 2,5 mg/d |
 | Moexipril | ... | ... | nach Q₀: 0.4; klinische Anpassung |
 | Perindopril-Argin<br>Perindopril-Erbumin | 5 mg<br>4 mg | 10 mg | GFR 30-60: max. 2,5 mg/d<br>GFR <30: max. 2,5 mg/48h<br>Dialyse: 2,5 mg nur am Dialzsetag |
-| Quinapril | ... | ... | nach Q₀: 0.2; klinische Anpassung |
+| Quinapril | 10 mg | ... | nach Q₀: 0.2; klinische Anpassung |
 | Ramipril | 2,5 mg | 10 mg/d | nach Q₀: 0.3; klinische Anpassung |
 | Spirapril | ... | ... | nach Q₀: 0.27; klinische Anpassung |
-| Trandolapril | ... | ... | GFR < 30: kontraindiziert |
+| Trandolapril | 2 mg | ... | GFR <30: kontraindiziert |
+| Zofenopril | 30 mg | ... | ... |
 
 ## AT1-Antagonist
 
@@ -47,6 +48,24 @@
 | Telmisartan | 40 mg | ... | Ø Dosisanpassung; vorsicht bei sehr eingeschränkter Nierenfunktion |
 | Valsartan | 80 mg | 320 mg/d | Ø Dosisanpassung; vorsicht bei sehr eingeschränkter Nierenfunktion |
 
+## Calciumantagonist
+
+### Dihydropyridine
+
+| Name | Äquivalenzdosis | max. Dosierung | Niereninsuffizienz |
+| --- | ---: | ---: | --- |
+| Amlodipin | 5 mg | 10 mg | Ø Dosisanpassung<br>GFR ↓: vorsichtige Dosisanpassung |
+| Felodipin | 5 mg | 10 mg | Ø Dosisanpassung |
+| Isradipin | 5 mg | 10 mg | Ø Dosisanpassung<br>GFR ↓: vorsichtige Dosisanpassung |
+| Lercanidipin | 10 mg | 20 mg | GFR 30-80: max. 10 mg/d; vorsichtige Dosissteigerung bis 20 mg/d<br>GFR <30: kontraindiziert |
+
+### nicht Dihydropyridine
+
+| Name | Äquivalenzdosis | max. Dosierung | Niereninsuffizienz |
+| --- | ---: | ---: | --- |
+| Verapamil | ... | ... | ... |
+| Diltiazem | ... | ... | ... |
+
 ## α₁-Adrenozeptor-Antagonisten
 
 | Name | Äquivalenzdosis | max. Dosierung | Niereninsuffizienz |
@@ -58,20 +77,32 @@
 | Name | Äquivalenzdosis | max. Dosierung | Niereninsuffizienz |
 | --- | ---: | ---: | --- |
 | Clonidin | ... | ... | ... |
-| Moxonidin | 0,2 mg | 0,6 mg/d | ... |
+| Moxonidin | 0,2 mg | 0,6 mg/d | GFR 30-60: max. 0,4mg/d<br>GFR <30: max 0,3mg/d |
 
 ## Diuretika
 
+### Thiaziden und Thiazidanaloga
+
 | Name | Äquivalenzdosis | max. Dosierung | Niereninsuffizienz |
 | --- | ---: | ---: | --- |
-| Chlorthalidon | ... | ... | ... |
-| Eplerenon | ... | ... | ... |
-| Furosemid | ... | ... | ... |
-| Hydrochlorothiazid | ... | ... | ... |
-| Indapamid | ... | ... | ... |
-| Spironolacton | ... | ... | ... |
-| Torasemid | ... | ... | ... |
-| Xipamid | ... | ... | ... |
+| Chlorthalidon | 25 mg | 200 mg | ... |
+| Hydrochlorothiazid | 25 mg | 100 mg | ... |
+| Indapamid | ... | 5 mg | GFR <30: kontraindiziert |
+| Xipamid | 10 mg | 40-80 mg | GFR ↓: max. 80 mg/d |
+
+### Schleifendiuretika
+
+| Name | Äquivalenzdosis | max. Dosierung | Niereninsuffizienz |
+| --- | ---: | ---: | --- |
+| Furosemid | 40 mg | ... | ... |
+| Torasemid | 10 mg | ... | ... |
+
+### kaliumsparende Diuretika
+
+| Name | Äquivalenzdosis | max. Dosierung | Niereninsuffizienz |
+| --- | ---: | ---: | --- |
+| Eplerenon | 25 mg | ... | GFR 30/60: init. 25 mg/2d<br>GFR <30: kontraindiziert |
+| Spironolacton | 25 mg | ... | GFR <30: kontraindiziert |
 
 ## Statine
 
@@ -82,5 +113,5 @@
 | Lovastatin | 40 mg | ... | ... |
 | Pitavastatin | 2 mg | 4 mg/d | ... |
 | Pravastatin | 40 mg | 40-80 mg/d | ... |
-| Rosuvastatin | 5 mg | 20-40 mg/d | GFR 30-60: 5-20 mg/d<br>GFR < 30: kontraindiziert |
-| Simvastatin | 20 mg | 80 mg/d | GFR < 30: engmaschige Kontrolle > 10 mg/d |
+| Rosuvastatin | 5 mg | 20-40 mg/d | GFR 30-60: 5-20 mg/d<br>GFR <30: kontraindiziert |
+| Simvastatin | 20 mg | 80 mg/d | GFR <30: engmaschige Kontrolle >10 mg/d |
