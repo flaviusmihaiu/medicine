@@ -12,7 +12,7 @@
   - [Statine](notes/Vergleichstabellen.md#statine)
 - __[Antibiotika](notes/Antibiotika.md)__
   - [Anpassung bei Niereninsuffizienz](notes/Antibiotika.md#anpassung-bei-niereninsuffizienz)
-- __[Spirometrie](notes/Spirometrie.md)
+- __[Spirometrie](notes/Spirometrie.md)__
   - [Diffusionskapazität](notes/Spirometrie.md#diffusionskapazität)
 
 ## Scores, Criteria, Staging, Grading and Classifications
